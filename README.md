@@ -7,7 +7,7 @@
 ## Quick start
 
 ```
-git clone --depth=1 https://github.com/espring/fullstack-backend myproj
+git clone https://github.com/espring/fullstack-backend myproj
 ```
 
 删除模板工程的.git, 重新初始.

@@ -20,7 +20,7 @@ git init
 
 安装
 ```
-yarn 
+npm i 
 ```
 
 本工程使用数据库是strapi默认的sqlite3, 如果希望使用mysql, 请编辑./config/database.js, 修改内容如下:
